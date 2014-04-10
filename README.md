@@ -18,4 +18,4 @@ Benchmarks
 
 
 License
-	Think GPL2. (anik.edu@gmail.com)
+	Think GPL2. (animesh.kundu@payu.in)
