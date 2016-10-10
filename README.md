@@ -15,7 +15,7 @@ Forking is always safer than Event. Event server crashes on fatal.
 	* Event - above 1000 concurrency [ ab stats ]. Solves c10K.
 
 ## License ##
-	Think GPL2. (animesh.kundu@payu.in)
+	Think GPL2.
 
 # Contributions are welcome. ##
 	* Please follow conventions.
